@@ -26,13 +26,12 @@ setup(
     author='myyang',
     author_email='ymy1019@gmail.com',
     install_requires=[
-        'django>=1.8',
+        'Django>=1.11',
         'protobuf>=3.1',
     ],
     classifiers=[
         'Environment :: Web Environment',
         'Framework :: Django',
-        'Framework :: Django :: 1.8',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
